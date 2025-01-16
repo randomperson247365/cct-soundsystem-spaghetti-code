@@ -6,3 +6,6 @@ told you it was spaghetti code the only good thing in here is the audio handling
 literally everything else only allows for one speaker i am only posting this so people can yoink the code
 chatgpt somehow made a working gui for the soundsystem.lua file also from telling the ai that it eats too much stupid but it works 
 feel free to borrow any and all of this code seriously please
+
+
+i don't think it borrowed too much code as i had to spit lots of documentation at it in order to have it even understand what a cc tweaked was so the code should be mostly orrigonal garbage even though it does work perfictly its trash perfict trash.
