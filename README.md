@@ -9,3 +9,6 @@ feel free to borrow any and all of this code seriously please
 
 
 i don't think it borrowed too much code as i had to spit lots of documentation at it in order to have it even understand what a cc tweaked was so the code should be mostly original garbage even though it does work perfictly its trash perfict trash.
+
+
+and yes i did ask 4o later on to see it it would be able to write something simmilar nope turns out you need a lot of patence and dedication at being lazy in order to actually get chatgpt to write something original the bot broke down and text spammed like this (&*@*%^&!#(2464691912936746 many times rip lol but the fact that this exists shows you can get a chatbot to actually create something new
